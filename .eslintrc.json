@@ -23,7 +23,7 @@
           "error",
           {
             "type": "element",
-            "prefix": "angular-runtime-performance",
+            "prefix": "arp",
             "style": "kebab-case"
           }
         ]
